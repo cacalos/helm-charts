@@ -3,11 +3,11 @@ entries:
   dish-smsf:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-16T17:27:34.341865+09:00"
+    created: "2020-04-21T17:06:31.728718+09:00"
     description: A Helm chart for DISH SMSF
     digest: 7d7265a804895c6d20017bafe965a686b4b818061b866428899e6fffe8529e79
     name: dish-smsf
     urls:
     - dish-smsf-1.2.1.tgz
     version: 1.2.1
-generated: "2020-04-16T17:27:34.336226+09:00"
+generated: "2020-04-21T17:06:31.723674+09:00"
